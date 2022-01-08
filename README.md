@@ -17,3 +17,7 @@ How install the project.
 ## How To Contribute
 
 List of action to contribute.
+
+### Copyright
+
+Git Training
