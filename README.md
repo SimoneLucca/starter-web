@@ -16,7 +16,7 @@ How install the project.
 
 ## How To Contribute
 
-List of action to contribute.
+Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
